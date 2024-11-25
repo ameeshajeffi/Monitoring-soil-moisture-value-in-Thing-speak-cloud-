@@ -1,5 +1,5 @@
 ## EXP 5
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 # Name : Ameesha Jeffi 
 # REF NO : 212223220007
